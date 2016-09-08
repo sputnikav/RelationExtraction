@@ -1,13 +1,13 @@
 #### RelationExtraction
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d7a8cfed85798f65c47935226d89b0e155ea221b
+
+
+
+
 Tasks: 
 -Acquire useful information from unstructured text. 
 -Build knowledge graph based on extracted information 
 -Domain: banking – finance.
-<<<<<<< HEAD
+
 
 ### 1. Aspect linking
 
@@ -36,8 +36,8 @@ The method is based on two sources:
 + A large number of unannotated text.
 
 
-=======
-Tasks: -Acquire useful information from unstructured text. -Build knowledge graph based on extracted information -Domain: banking – finance.
->>>>>>> master
-=======
->>>>>>> d7a8cfed85798f65c47935226d89b0e155ea221b
+
+
+
+
+
